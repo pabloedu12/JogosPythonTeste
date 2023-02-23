@@ -145,3 +145,5 @@ def desenha_forca(erros):
 
 if(__name__ == "__main__"):
     jogar()
+
+and
